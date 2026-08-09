@@ -4,7 +4,7 @@
   <img src="image/Netflix Schema.png" alt="Netflix Database Schema" width="700">
 </p>
 
-## 📋 Table of Contents
+## 📋 Table of Contents:
 - [Project Overview](#-project-overview)
 - [Business Questions](#-business-questions)
 - [Dataset Description](#-dataset-description)
