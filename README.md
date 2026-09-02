@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 Project Overview
+## 🎯 Project Overview:
 
 This project is an **end-to-end SQL analysis** of a Netflix-style streaming platform database. The goal is to design a comprehensive database schema and analyze user viewing trends, revenue patterns, and subscription models to answer critical business questions.
 
