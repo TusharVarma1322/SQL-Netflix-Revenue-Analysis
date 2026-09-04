@@ -26,7 +26,7 @@ This project is an **end-to-end SQL analysis** of a Netflix-style streaming plat
 
 ---
 
-## ❓ Business Questions
+## ❓ Business Questions:
 
 This analysis answers **15 critical business questions**:
 
