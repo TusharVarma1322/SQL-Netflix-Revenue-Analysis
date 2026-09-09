@@ -484,7 +484,7 @@ SQL-Netflix-Revenue-Analysis/
 
 ---
 
-## 📚 What I Learned
+## 📚 What I Learned:
 
 1. **Complex Database Design** - Creating normalized schemas with proper relationships
 2. **Advanced SQL Joins** - Connecting 4+ tables for comprehensive analysis
