@@ -86,7 +86,7 @@ The database consists of **12 interconnected tables** representing a complete st
 
 ---
 
-## 🔗 Database Schema
+## 🔗 Database Schema:
 
 ### Entity Relationships
 
