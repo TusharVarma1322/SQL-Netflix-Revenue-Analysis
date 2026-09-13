@@ -107,7 +107,7 @@ The database consists of **12 interconnected tables** representing a complete st
 └─────────────┘     └─────────────┘
 ```
 
-### Subscription Plans
+### Subscription Plans:
 
 | Plan | Price | Quality | Profiles | Ad Support |
 |------|-------|---------|----------|------------|
