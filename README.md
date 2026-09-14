@@ -66,7 +66,7 @@ The database consists of **12 interconnected tables** representing a complete st
 | `Profiles` | User profiles under accounts | `ProfileID`, `ProfileName`, `CustID` |
 | `Devices` | Supported device types | `DeviceID`, `DeviceType` |
 
-### Relationship Tables
+### Relationship Tables:
 
 | Table | Description | Relationships |
 |-------|-------------|---------------|
