@@ -77,7 +77,7 @@ The database consists of **12 interconnected tables** representing a complete st
 | `PaymentHistory` | Payment transaction records | PaymentMethod → PaymentHistory |
 | `CustomersLanguagePreferred` | Language preferences | Customers → Languages |
 
-### Specialized Tables
+### Specialized Tables:
 
 | Table | Description |
 |-------|-------------|
