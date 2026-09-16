@@ -117,7 +117,7 @@ The database consists of **12 interconnected tables** representing a complete st
 
 ---
 
-## 💻 SQL Solutions & Analysis
+## 💻 SQL Solutions & Analysis:
 
 ### 1. Top 3 Most-Watched Movies
 
