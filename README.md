@@ -380,7 +380,7 @@ GROUP BY c. Category;
 
 ---
 
-## 💡 Key Insights
+## 💡 Key Insights:
 
 ### Content Performance
 - **Action genre** dominates viewing hours across both Movies and TV Shows
