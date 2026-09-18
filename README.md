@@ -402,7 +402,7 @@ GROUP BY c. Category;
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## 🛠️ Technical Skills Demonstrated:
 
 | Category | Skills |
 |----------|--------|
