@@ -418,7 +418,7 @@ GROUP BY c. Category;
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```
 SQL-Netflix-Revenue-Analysis/
