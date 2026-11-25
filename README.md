@@ -484,14 +484,14 @@ SQL-Netflix-Revenue-Analysis/
 
 ---
 
-## 📚 What I Learned:
+## 📚 What I Learned:-
 
 1. **Complex Database Design** - Creating normalized schemas with proper relationships
 2. **Advanced SQL Joins** - Connecting 4+ tables for comprehensive analysis
 3. **Window Functions** - Using RANK() and PARTITION BY for rankings
 4. **CTEs** - Organizing complex queries with Common Table Expressions
 5. **Data Cleaning in SQL** - Using REPLACE() and CAST() for messy data
-6. **Business Analysis** - Translating business questions into SQL queries
+6. **Business Analysis** - Translating business questions into SQL querie
 
 ---
 
