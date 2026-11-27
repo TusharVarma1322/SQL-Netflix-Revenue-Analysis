@@ -473,7 +473,7 @@ SQL-Netflix-Revenue-Analysis/
 
 ---
 
-## 🔜 Future Improvements
+## 🔜 Future Improvements:
 
 - [ ] **Churn Analysis:** Analyze subscription cancellation patterns
 - [ ] **Cohort Analysis:** Track user behavior by registration date
